@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "netflixgpt-d33d8",
+    "staging": "netflixgpt-d33d8"
+  },
+  "targets": {},
+  "etags": {}
+}
